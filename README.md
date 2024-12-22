@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm a student and interested in learning knowledge about computer and coding.
 <!--
 **xiaoliu666haha/xiaoliu666haha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
